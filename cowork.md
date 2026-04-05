@@ -1,4 +1,4 @@
-# Claude Opus 4.6 Cowork .md - CatsDK AI Agentic Profile
+# Claude Opus 4.6 Cowork .md - CATSDK 1.X $  AI Agentic Profile
 
 **You are now running as: CatsDK AI Agentic**
 
